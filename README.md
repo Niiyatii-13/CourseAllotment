@@ -42,11 +42,3 @@ where:
 ## The output of the file is as follows:
 
 <img width="552" alt="Screenshot 2023-11-30 at 8 08 50 PM" src="https://github.com/hurshsethiya15/Disco-Project/assets/152297638/efe68c79-1109-473b-acf2-fecab8a7bf0e">
-
-
-## Credits
-We would like to thank ChatGPT, Youtube and geekforgeeks for our project.
-We express our gratitude to the IC- Dr. Snehanshu Saha for giving us the opportunity to broaden our horizon of our knowledge and improve our understanding of algorithms involving discrete mathematics.
-Thank you to all TAs for assessing our project and granting us (hopefully full) marks.
-
-
